@@ -13,18 +13,24 @@ This repository contains a collection of my Exploratory Data Analysis (EDA) proj
 
 # Projects
 
-### 1. Shopping Trends Analysis -
+## 1. Shopping Trends Analysis -
 
-**Project Summary** -
+
+### Objective -
+Identify actionable insights to support data-driven decisions in customer segmentation, marketing strategy, and product planning.
+
+### Project Summary -
 This project analyzes customer shopping behavior to understand how purchase amounts vary across product categories, age groups, seasons, and subscription status. The analysis highlights spending patterns, compares subscribers vs non-subscribers, and identifies customer segments with higher or more consistent purchasing behavior.
 
-**Key Analyses** -
+### Key Analyses -
 - Category-wise and season-wise spending patterns  
 - Age group vs purchase amount distribution  
 - Impact of subscription status on spending behavior  
 - Correlation analysis between numerical features  
 
 
-**Objective** -
-Identify actionable insights to support data-driven decisions in customer segmentation, marketing strategy, and product planning.
+### Dataset -
 
+The dataset used in this project is publicly available.
+
+- **Source:** [Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
