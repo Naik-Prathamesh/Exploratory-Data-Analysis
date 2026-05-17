@@ -13,6 +13,7 @@ This repository contains a collection of my Exploratory Data Analysis (EDA) proj
 
 # Projects
 
+
 ## 1. Shopping Trends Analysis -
 
 
@@ -34,3 +35,27 @@ This project analyzes customer shopping behavior to understand how purchase amou
 The dataset used in this project is publicly available.
 
 - **Source:** [Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+
+____
+## **2. Telco Customer Churn Analysis**
+
+### **Objective**
+
+Identify actionable insights to support data-driven decisions in customer retention, contract optimization, and targeted financial interventions to minimize subscription cancellations.
+
+### **Project Summary**
+
+This project analyzes telecom customer data to understand how customer churn varies across account characteristics, pricing structures, payment methods, and demographic groups. The analysis highlights key drivers of customer attrition, compares the risk of manual vs. automated payment workflows, and identifies the exact pricing thresholds and service types (such as Fiber Optic) that create the highest retention risks.
+
+### **Key Analyses**
+
+- Tenure distribution trends and customer drop-off milestones
+- Impact of contract types (Month-to-month vs. Multi-year) on customer churn
+- Monthly and Total Charges pricing threshold and correlation analysis
+- Payment methods and demographic factor distributions against churn rates
+
+### **Dataset**
+
+The dataset used in this project is publicly available.
+
+* **Source:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
